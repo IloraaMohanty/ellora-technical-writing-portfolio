@@ -3,8 +3,8 @@ This portfolio highlights selected samples that demonstrate clarity, structure, 
 ## 📑 Portfolio Samples ### 
 1. Release Notes - HR Self-Service Portal - Virtual Agent / IT Support Chatbot - ServiceNow Knowledge Portal
 2. https://docs.google.com/document/d/1iPy37Al-WQp7xU5megsblylxvMHMEIx0/edit?usp=sharing&ouid=103801210236834424251&rtpof=true&sd=true
-
-
+Report Writer wriiten test sample
+https://drive.google.com/file/d/17c3M8a5rl0bB6mEzOIgpO8vP7S6aScDJ/view?usp=sharing
 
 ## 🛠 Tools & Skills Demonstrated -
 DITA/XML Authoring 
