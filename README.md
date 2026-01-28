@@ -35,7 +35,7 @@ Release notes created for an HR Self‑Service Portal to communicate new feature
 * Clear, concise release communication
 * User‑focused language
 
-🔗 Sample: https://docs.google.com/document/d/1iPy37Al-WQp7xU5megsblylxvMHMEIx0/edit?usp=sharing&ouid=103801210236834424251&rtpof=true&sd=true
+🔗 Sample: https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing&ouid=103801210236834424251&rtpof=true&sd=true
 
 ---
 
