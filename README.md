@@ -39,13 +39,13 @@ Release notes created for an HR Self‑Service Portal to communicate new feature
 
 ---
 
-### 2️⃣ User Documentation Sample (Written Test)
+### 2️⃣ User Documentation Sample (Written Test - Google Cloud)
 
 **Description:**
 A documentation sample created as part of a written test, demonstrating the ability to understand requirements and convert them into structured, easy‑to‑follow user documentation.
 
-**Audience:** End users
-**Deliverable:** User Guide / Task‑based documentation
+**Audience:** STO/CEO 
+**Deliverable:** Task‑based documentation
 **Skills Demonstrated:**
 
 * Task‑oriented writing
