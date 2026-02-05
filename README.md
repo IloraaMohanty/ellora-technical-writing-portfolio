@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00961d99-9fef-45c5-8ca6-9219b9cbe1be" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6d4699b-cf67-47be-b34e-c931c2cfd042" /># Ellora Mohanty – Technical Writing Portfolio
+# Ellora Mohanty – Technical Writing Portfolio
 
 ## 👋 About Me
 
