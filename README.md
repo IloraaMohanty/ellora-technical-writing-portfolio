@@ -1,4 +1,4 @@
-# Ellora Mohanty – Technical Writing Portfolio
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00961d99-9fef-45c5-8ca6-9219b9cbe1be" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6d4699b-cf67-47be-b34e-c931c2cfd042" /># Ellora Mohanty – Technical Writing Portfolio
 
 ## 👋 About Me
 
@@ -69,6 +69,10 @@ My documentation approach typically includes:
 5. Collaborating with SMEs, developers, and QA for reviews
 6. Publishing review‑friendly outputs (HTML/PDF)
 7. Final publishing aligned with product releases
+
+---
+## Certification
+https://drive.google.com/file/d/1Z35wGQu3cJw7AphNxg6d8xZsJ95YtZVX/view?usp=sharing
 
 ---
 
