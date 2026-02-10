@@ -84,4 +84,4 @@ Thank you for reviewing my portfolio!
 
 
 
-📧 Contact: elloramohanty8@gmail.com 🔗 LinkedIn: linkedin.com/in/ellora-mohanty-86b031204
+📧 Contact: elloramohanty8@gmail.com 🔗 LinkedIn: https://linkedin.com/in/ellora-mohanty-86b031204
