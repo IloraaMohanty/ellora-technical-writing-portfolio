@@ -34,13 +34,13 @@ Tools Used: Internal CMS, structured authoring practices, cross-functional revie
 
 * Policy and compliance documentation
 
-*Simplifying complex rules into clear guidance
+* Simplifying complex rules into clear guidance
 
-*Writing for self-service support experiences
+* Writing for self-service support experiences
 
-*Cross-team collaboration (Policy, Legal, Product, Support)
+* Cross-team collaboration (Policy, Legal, Product, Support)
 
-*Maintaining content accuracy at scale
+* Maintaining content accuracy at scale
 
 🔗 Published Article:
 https://support.google.com/adspolicy/answer/13704200
@@ -58,11 +58,11 @@ Release notes created for an HR Self-Service Portal to communicate new features,
 
 **Skills Demonstrated**:
 
-*Feature summarization
+* Feature summarization
 
-*Clear, concise release communication
+* Clear, concise release communication
 
-*User-focused language
+* User-focused language
 
 🔗 Sample:
 https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing
@@ -76,11 +76,11 @@ A documentation sample created as part of a written assessment, demonstrating th
 
 **Skills Demonstrated**:
 
-*Task-oriented writing
+* Task-oriented writing
 
-*Logical information flow
+* Logical information flow
 
-*Instructional clarity
+* Instructional clarity
 
 🔗 Sample:
 https://drive.google.com/file/d/17c3M8a5rl0bB6mEzOIgpO8vP7S6aScDJ/view
