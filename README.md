@@ -21,7 +21,7 @@ I have worked on user guides, release notes, and troubleshooting documentation, 
 
 ## 📂 Portfolio Samples
 
-1️⃣ Google Ads Policy Help Center – Support Documentation
+1️⃣ ** Google Ads Policy Help Center – Support Documentation **
 
 Description:
 Contributed to customer-facing support documentation for the Google Ads Policy Help Center. This article explains billing and payment suspension policies and guides advertisers on understanding account restrictions and resolution steps.
