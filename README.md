@@ -68,6 +68,7 @@ Release notes created for an HR Self-Service Portal to communicate new features,
 https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing
 
 3️⃣ **User Documentation Sample (Written Test – Google Cloud Report Writer)**
+
 **Description**:
 A documentation sample created as part of a written assessment, demonstrating the ability to interpret requirements and convert them into structured, easy-to-follow user documentation.
 
