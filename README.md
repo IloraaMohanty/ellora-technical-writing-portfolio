@@ -32,7 +32,7 @@ Tools Used: Internal CMS, structured authoring practices, cross-functional revie
 
 **Skills Demonstrated**:
 
-*Policy and compliance documentation
+* Policy and compliance documentation
 
 *Simplifying complex rules into clear guidance
 
