@@ -56,6 +56,30 @@ A documentation sample created as part of a written test, demonstrating the abil
 
 
 
+3️⃣** Google Ads Policy Help Center – Support Documentation**
+
+Description:
+Contributed to the creation and maintenance of customer-facing support documentation for the Google Ads Policy Help Center. The article explains billing and payment suspension policies and helps advertisers understand account restrictions and resolution steps.
+
+Audience: Global advertisers and account administrators
+Deliverable: Help Center / Policy Support Article
+Tools Used: Internal CMS, structured authoring practices, collaborative reviews
+Skills Demonstrated:
+
+Policy and compliance documentation
+
+Simplifying complex technical/policy language
+
+Writing for self-service support
+
+Cross-functional collaboration (Policy, Legal, Product, Support)
+
+Large-scale documentation maintenance
+
+🔗 Published Article: https://support.google.com/adspolicy/answer/13704200
+
+Note:
+Content is officially published by Google. I contributed as part of the Google Operations Center documentation team.
 ---
 
 ## 🧭 Documentation Approach
