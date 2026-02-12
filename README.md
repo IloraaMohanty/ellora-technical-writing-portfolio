@@ -21,65 +21,70 @@ I have worked on user guides, release notes, and troubleshooting documentation, 
 
 ## 📂 Portfolio Samples
 
-### 1️⃣ Release Notes – HR Self‑Service Portal
-
-**Description:**
-Release notes created for an HR Self‑Service Portal to communicate new features, enhancements, and fixes to end users.
-
-**Audience:** End users and stakeholders
-**Deliverable:** Release Notes
-**Tools Used:** Word / Structured documentation approach
-**Skills Demonstrated:**
-
-* Feature summarization
-* Clear, concise release communication
-* User‑focused language
-
-🔗 Sample: https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing&ouid=103801210236834424251&rtpof=true&sd=true
-
----
-
-### 2️⃣ User Documentation Sample (Written Test - Report Writer at Google Cloud)
-
-**Description:**
-A documentation sample created as part of a written test, demonstrating the ability to understand requirements and convert them into structured, easy‑to‑follow user documentation.
-
-**Audience:** STO/CEO 
-**Deliverable:** Task‑based documentation
-**Skills Demonstrated:**
-
-* Task‑oriented writing
-* Logical information flow
-* Instructional clarity
-
-🔗 Sample: https://drive.google.com/file/d/17c3M8a5rl0bB6mEzOIgpO8vP7S6aScDJ/view?usp=drive_link
-
-
-
-3️⃣** Google Ads Policy Help Center – Support Documentation**
+1️⃣ Google Ads Policy Help Center – Support Documentation
 
 Description:
-Contributed to the creation and maintenance of customer-facing support documentation for the Google Ads Policy Help Center. The article explains billing and payment suspension policies and helps advertisers understand account restrictions and resolution steps.
+Contributed to customer-facing support documentation for the Google Ads Policy Help Center. This article explains billing and payment suspension policies and guides advertisers on understanding account restrictions and resolution steps.
 
 Audience: Global advertisers and account administrators
 Deliverable: Help Center / Policy Support Article
-Tools Used: Internal CMS, structured authoring practices, collaborative reviews
+Tools Used: Internal CMS, structured authoring practices, cross-functional reviews
+
 Skills Demonstrated:
 
 Policy and compliance documentation
 
-Simplifying complex technical/policy language
+Simplifying complex rules into clear guidance
 
-Writing for self-service support
+Writing for self-service support experiences
 
-Cross-functional collaboration (Policy, Legal, Product, Support)
+Cross-team collaboration (Policy, Legal, Product, Support)
 
-Large-scale documentation maintenance
+Maintaining content accuracy at scale
 
-🔗 Published Article: https://support.google.com/adspolicy/answer/13704200
+🔗 Published Article:
+https://support.google.com/adspolicy/answer/13704200
 
-Note:
-Content is officially published by Google. I contributed as part of the Google Operations Center documentation team.
+Note: Content is officially published by Google. I contributed as part of the Google Operations Center documentation team.
+
+2️⃣ Release Notes – HR Self-Service Portal
+
+Description:
+Release notes created for an HR Self-Service Portal to communicate new features, enhancements, and fixes to end users.
+
+Audience: End users and stakeholders
+Deliverable: Release Notes
+Tools Used: Word / Structured documentation approach
+
+Skills Demonstrated:
+
+Feature summarization
+
+Clear, concise release communication
+
+User-focused language
+
+🔗 Sample:
+https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing
+
+3️⃣ User Documentation Sample (Written Test – Google Cloud Report Writer)
+
+Description:
+A documentation sample created as part of a written assessment, demonstrating the ability to interpret requirements and convert them into structured, easy-to-follow user documentation.
+
+Audience: STO/CEO
+Deliverable: Task-based documentation
+
+Skills Demonstrated:
+
+Task-oriented writing
+
+Logical information flow
+
+Instructional clarity
+
+🔗 Sample:
+https://drive.google.com/file/d/17c3M8a5rl0bB6mEzOIgpO8vP7S6aScDJ/view
 ---
 
 ## 🧭 Documentation Approach
