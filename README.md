@@ -21,33 +21,8 @@ I have worked on user guides, release notes, and troubleshooting documentation, 
 
 ## 📂 Portfolio Samples
 
-1️⃣ **Google Ads Policy Help Center – Support Documentation**
 
-**Description**:
-Contributed to customer-facing support documentation for the Google Ads Policy Help Center. This article explains billing and payment suspension policies and guides advertisers on understanding account restrictions and resolution steps.
-
-**Audience**: Global advertisers and account administrators
-**Deliverable**: Help Center / Policy Support Article
-Tools Used: Internal CMS, structured authoring practices, cross-functional reviews
-
-**Skills Demonstrated**:
-
-* Policy and compliance documentation
-
-* Simplifying complex rules into clear guidance
-
-* Writing for self-service support experiences
-
-* Cross-team collaboration (Policy, Legal, Product, Support)
-
-* Maintaining content accuracy at scale
-
-🔗 Published Article:
-https://support.google.com/adspolicy/answer/13704200
-
-**Note**: Content is officially published by Google. I contributed as part of the Google Operations Center documentation team.
-
-2️⃣ **Release Notes – HR Self-Service Portal**
+1️⃣ **Release Notes – HR Self-Service Portal**
 
 **Description**:
 Release notes created for an HR Self-Service Portal to communicate new features, enhancements, and fixes to end users.
@@ -67,7 +42,7 @@ Release notes created for an HR Self-Service Portal to communicate new features,
 🔗 Sample:
 https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing
 
-3️⃣ **User Documentation Sample (Written Test – Google Cloud Report Writer)**
+2️⃣ **User Documentation Sample (Written Test – Google Cloud Report Writer)**
 
 **Description**:
 A documentation sample created as part of a written assessment, demonstrating the ability to interpret requirements and convert them into structured, easy-to-follow user documentation.
