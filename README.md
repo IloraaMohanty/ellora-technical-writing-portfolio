@@ -42,6 +42,8 @@ Release notes created for an HR Self-Service Portal to communicate new features,
 🔗 Sample:
 https://docs.google.com/document/d/1TfbyikW00qG-co-EbnTJoyjCvmzmNx9I/edit?usp=sharing
 
+https://docs.google.com/document/d/18YoFM_S3E9qlqmi2MiH0xJBvvmJSxaoC/edit?usp=sharing&ouid=103801210236834424251&rtpof=true&sd=true
+
 2️⃣ **User Documentation Sample (Written Test – Google Cloud Report Writer)**
 
 **Description**:
@@ -62,6 +64,26 @@ A documentation sample created as part of a written assessment, demonstrating th
 https://drive.google.com/file/d/17c3M8a5rl0bB6mEzOIgpO8vP7S6aScDJ/view
 
 ---
+3️⃣ **User Guide - Password Reset via Email OTP**
+
+**Description**:
+Created a structured user guide for a web-based CRM application explaining the password reset process using Email OTP. The guide includes introduction, prerequisites, step-by-step instructions, troubleshooting scenarios, and additional resources.
+**Audience**: End-users
+**Skills Demonstrated**:
+
+* Task-oriented documentation
+
+* Structured information architecture
+
+* Clear and concise instructional writing
+
+* Logical content flow
+
+* Troubleshooting documentation
+
+🔗 Sample:
+https://docs.google.com/document/d/18YoFM_S3E9qlqmi2MiH0xJBvvmJSxaoC/edit?usp=drive_link&ouid=103801210236834424251&rtpof=true&sd=true
+
 
 ## 🧭 Documentation Approach
 
