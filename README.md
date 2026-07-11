@@ -109,6 +109,5 @@ If you would like to discuss my work or request additional samples, feel free to
 
 Thank you for reviewing my portfolio!
 
-_config.yml
 
 📧 Contact: elloramohanty8@gmail.com 🔗 LinkedIn: https://linkedin.com/in/ellora-mohanty-86b031204
