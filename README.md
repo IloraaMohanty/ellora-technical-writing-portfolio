@@ -10,7 +10,7 @@ I have worked on user guides, release notes, and troubleshooting documentation, 
 
 ## 🛠️ Tools & Skills
 
-* **Authoring:** Oxygen XML Author, Microsoft Word, Google Docs
+* **Authoring:** Oxygen XML Author, Confluence, Microsoft Word, Google Docs
 * **Standards & Frameworks:** DITA (Concept, Task, Reference), structured authoring
 * **Publishing:** DITA Open Toolkit (HTML, PDF, Help output)
 * **Reuse & Management:** Conref, Keyref, Conkeyref, conditional processing
